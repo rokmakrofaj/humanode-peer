@@ -477,7 +477,7 @@ journalctl -u humanode_monitor -f
 ## ✅ Test
 
 ```bash
-curl "http://SUNUCU_IP:8000/status?token=benimtokenim123"
+curl "http://SUNUCU_IP:8000/status?token=sunucutokeniniz"
 ```
 
 Cevap:
